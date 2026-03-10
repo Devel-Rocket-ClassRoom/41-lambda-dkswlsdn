@@ -55,7 +55,8 @@
 
 ## 4. List 메서드와 람다식
 
-`List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }`을 선언하세요. `Find`로 첫 번째 짝수, `FindAll`로 모든 짝수, `Exists`로 8보다 큰 수 존재 여부, `TrueForAll`로 모두 양수인지, `RemoveAll`로 짝수 제거 후 남은 숫자를 출력하세요.
+`List<int> numbers = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }`을 선언하세요. `Find`로 첫 번째 짝수, `FindAll`로 모든 짝수, `Exists`로 8보다 큰 수 존재 여부,
+`TrueForAll`로 모두 양수인지, `RemoveAll`로 짝수 제거 후 남은 숫자를 출력하세요.
 
 **실행 결과**
 
